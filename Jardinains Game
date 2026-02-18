@@ -1,0 +1,36 @@
+Overview
+Jardinains Game is a 2D arcade-style brick breaker game developed using Java as part of my MCA minor project.
+The game demonstrates core Object-Oriented Programming (OOP) concepts, GUI development, and event handling using AWT/Swing.
+The objective of the game is to control the paddle to bounce the ball and break all the bricks to complete the level.
+
+Technologies Used
+ Java
+ OOP Concepts
+ AWT / Swing
+ Event Handling
+ Java Graphics
+
+Features
+ Interactive paddle and ball mechanics
+ Collision detection system
+ Score tracking system
+ Game Over and Restart functionality
+ Multiple bricks layout
+ Keyboard controls
+
+How to Play
+ Use Left Arrow (←) to move paddle left
+ Use Right Arrow (→) to move paddle right
+ Break all bricks to win the game
+ If the ball touches the bottom, the game is over
+
+Project Structure
+ Jardinains-Game/
+ │── Main.java  
+ │── GamePlay.java  
+ │── MapGenerator.java  
+ │── README.md
+
+Author
+ Pushpendra Kumar Sahu
+ MCA Student
